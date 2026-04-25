@@ -1,0 +1,4 @@
+set MYSQL_HOST=localhost
+set MYSQL_USER=root
+set MYSQL_PASSWORD=12345
+set MYSQL_DATABASE=school
